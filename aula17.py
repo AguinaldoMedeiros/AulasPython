@@ -1,0 +1,12 @@
+# utilizando o debug do python
+
+numero = input('Digite um número para a verificação: ')
+
+int_numero = int(numero)
+
+if int_numero % 2 == 0:
+    print(f'O número {int_numero} é par')
+elif int_numero % 2 == 1:
+    print(f'O número {int_numero} é ímpar e o resto da divisão é 1')
+else:
+    print(f'O número {int_numero} é ímpar')
