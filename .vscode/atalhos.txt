@@ -1,0 +1,41 @@
+Atalhos do VSCode
+
+Ctrl + b            - Esconder a barra lateral esquerda (barra de pastas)
+Ctrl + Alt + n      - Rodar o código
+Ctrl + p            - Abre a lista de arquivos abertos recentemente (pesquise outros arquivos)
+Ctrl + s            - Salva o arquivo
+Ctrl + Shift + m    - Abre o terminal de problemas (comumente utilizando em debugs)
+Ctrl + Shift + '    - Abre um novo terminal
+exit                - Fecha o terminal (digite exit no próprio terminal)
+Ctrl + k, z         - Ativa o modo sem distrações do VSCode
+Ctrl + }            - Abre uma segunda aba de código
+Ctrl + Número       - Alterar entre as abas abertas de código
+Ctrl + w            - Fecha arquivos (abas, páginas, o que tu quiser chamar)
+Ctrl + Tab          - Navegação rápida entre arquivos
+Alt (Segure) + Setas - Navegação rápida entre arquivos
+Ctrl + Shift + p    - Abre a navegação de comandos do VSCode
+Ctrl + ;            - Comenta um conjunto de linhas
+
+Atalhos para edição de arquivos
+
+Alt (Segure) + Setas            - Para mover uma linha para cima e baixo
+Alt (Segure) + Click            - Edita um conjunto de locais clicados
+Ctrl + d                        - Seleciona uma a uma das palavras iguais a selecionada
+Ctrl + l                        - Seleciona todas as palavras iguais selecionadas
+Shift + Alt + Selecione         - Edita uma coluna em massa
+Shift + Alt + Setas laterais    - Aumenta ou diminui a seleção de texto
+Ctrl + g                        - Navegue até uma linha específica no código
+Ctrl + u                        - Reposiciona o cursos no topo do código
+Ctrl + k, Ctrl + x              - Remove o espaço em brando desnecessário, formatando o código
+F2                              - Altera a palavra em todas as suas ocorrências
+Ctrl + BackSpace                - Deleta a palavra inteira
+Ctrl + Setas                    - Navegar mais rápido entre as palavras 
+Ctrl + x                        - Deleta a linha toda (a copia também)
+Ctrl + Space                    - Menu de sugestão/explicação quanto as interações com métodos e classes
+Tab                             - Identar o código para frente
+Shift + Tab                     - Identar o código para trás
+
+
+Atalhos do VSCode pelo cmd
+code .              - Abre o VSCode de uma pasta específica utilizando um cmd
+        
