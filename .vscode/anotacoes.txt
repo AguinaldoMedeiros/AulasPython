@@ -1,1 +1,2 @@
 Documentação Python = https://docs.python.org/pt-br/3/library/stdtypes.html
+Documentação Ponto Flutuante = https://en.wikipedia.org/wiki/Double-precision_floating-point_format | https://docs.python.org/pt-br/3/tutorial/floatingpoint.html

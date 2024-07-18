@@ -38,4 +38,3 @@ Shift + Tab                     - Identar o código para trás
 
 Atalhos do VSCode pelo cmd
 code .              - Abre o VSCode de uma pasta específica utilizando um cmd
-        

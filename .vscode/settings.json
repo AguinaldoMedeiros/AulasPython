@@ -4,6 +4,7 @@
     "editor.fontSize": 18,
     "terminal.integrated.enableMultiLinePasteWarning": false,
     "terminal.integrated.fontSize": 18,
+        "terminal.integrated.defaultProfile.windows": "Git Bash",
     "security.workspace.trust.untrustedFiles": "open",
     "explorer.compactFolders": false,
     "workbench.iconTheme": "material-icon-theme",
