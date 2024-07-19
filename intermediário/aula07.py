@@ -11,4 +11,8 @@ def mult(*args):
         result *= int(number)
     return result
 
-print(mult(1,2,3,4,5))
+def par_impar(x):
+    return f'O número {x} é par' if x % 2 == 0 else f'O número {x} é ímpar'
+
+result_mult = mult(3,3,3,3,3,3,3,3,5)
+print(par_impar(result_mult))
