@@ -1,3 +1,4 @@
-Documentação Python = https://docs.python.org/pt-br/3/library/stdtypes.html
-Documentação Ponto Flutuante = https://en.wikipedia.org/wiki/Double-precision_floating-point_format | https://docs.python.org/pt-br/3/tutorial/floatingpoint.html
-Documentação Exceções - https://docs.python.org/pt-br/3/library/exceptions.html
+Doc Python = https://docs.python.org/pt-br/3/library/stdtypes.html
+Doc Ponto Flutuante = https://en.wikipedia.org/wiki/Double-precision_floating-point_format | https://docs.python.org/pt-br/3/tutorial/floatingpoint.html
+Doc Exceções - https://docs.python.org/pt-br/3/library/exceptions.html
+Doc Import - https://docs.python.org/3/py-modindex.html
