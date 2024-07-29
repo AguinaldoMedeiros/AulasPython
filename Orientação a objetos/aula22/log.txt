@@ -1,0 +1,2 @@
+Success: Iphone X foi ligado (Smartphone)
+Success: Iphone X foi desligado (Smartphone)
