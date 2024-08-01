@@ -23,15 +23,21 @@ class Notification:
     def send(self) -> bool: ...
 
 class EmailNotification(Notification):
-    def send(self):
+    def send(self) -> bool:
         print('Sending e-mail: ', self.msg)
+        return True
 
 class SMSNotification(Notification):
-    def send(self):
+    def send(self) -> bool:
         print('Sending SMS: ', self.msg)
+        return True
 
-
-notif = EmailNotification('Testing notification')
-notif.send()
-notif2 = SMSNotification('Testing notification')
-notif2.send()
+def notify(notification: Notification):
+    send_notification = notification.send()
+    
+    if send_notification:
+        print('Notification send')
+    else:
+        print('Notification NOT send') 
+        
+notify(EmailNotification('Testing'))
