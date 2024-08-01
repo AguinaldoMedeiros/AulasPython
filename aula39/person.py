@@ -18,13 +18,16 @@ class Person:
         return self._age
     
 class Client(Person):
-    def __init__(self, name, age, type_account: Account):
-        self._name = name
-        self._age = age
-        self.type_account = type_account
+    def __init__(self, name, age):
+        self.accounts = []
+        super().__init__(name, age)
+    
+    def add_account(self, account: Account):
+        self.accounts.append(account)
     
     def client(self):
-        return self.name, self.type_account.account()
+        ...
+        # return self.name, self.type_account.account()
 
 # if __name__ == '__main__':
 #     client = Client('Medeiros', 62834324, SavingAccount())
